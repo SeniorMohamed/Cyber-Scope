@@ -1,5 +1,6 @@
 
 # CyberScope - Cyber Threat Hunting and Intelligence Platform
+[![Donate](https://img.shields.io/badge/Donate-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/drrobot)
 
 CyberScope is an open-source tool designed for advanced cyber threat reconnaissance, analysis, and reporting.
 
